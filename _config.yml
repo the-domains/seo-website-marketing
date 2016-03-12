@@ -1,14 +1,26 @@
 layout_spectrum: 1
-typography_spectrum: 1
+name: SEO Website Marketing
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.8619573
   brandStrength: 0.6871838
   saturation: 0.7094929
-  rhythmicContrast: 0.6266126
   brandColors:
     - '#000000'
     - '#664428'
     - '#95969A'
     - '#DD9A25'
     - '#E9207A'
-name: SEO Website Marketing
+  lightness: 0.8619573
+  rhythmicContrast: 0.6266126
+typography_spectrum: 0.8541315
