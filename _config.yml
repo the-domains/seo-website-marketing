@@ -12,9 +12,10 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.1483104
 color:
   brandStrength: 0.9367622
-  lightness: 0.6852316
+  lightness: 0.8441802
   saturation: 1
   rhythmicContrast: 1
   brandColors:
@@ -23,4 +24,3 @@ color:
     - '#95969A'
     - '#DD9A25'
     - '#E9207A'
-typography_spectrum: 0.1483104
