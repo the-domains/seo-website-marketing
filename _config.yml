@@ -1,5 +1,17 @@
 layout_spectrum: 0.06998314
 name: SEO Website Marketing
+color:
+  brandStrength: 0.9367622
+  saturation: 0.4599499
+  brandColors:
+    - '#000000'
+    - '#664428'
+    - '#95969A'
+    - '#DD9A25'
+    - '#E9207A'
+  lightness: 0
+  rhythmicContrast: 0.2947434
+typography_spectrum: 0.8541315
 collections:
   - index:
       navigable: true
@@ -12,15 +24,3 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  brandStrength: 0.9367622
-  lightness: 0
-  saturation: 0.4599499
-  rhythmicContrast: 0.2947434
-  brandColors:
-    - '#000000'
-    - '#664428'
-    - '#95969A'
-    - '#DD9A25'
-    - '#E9207A'
-typography_spectrum: 0.8541315
